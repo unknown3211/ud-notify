@@ -1,0 +1,6 @@
+How To Use UD NOTIFY:
+
+TriggerEvent('UDText:show', 'success', 'This is a Success message.')
+TriggerEvent('UDText:show', 'error', 'This is a Error message.')
+TriggerEvent('UDText:show', 'warning', 'This is a Warning message.')
+TriggerEvent('UDText:show', 'info', 'This is a info Message.')
